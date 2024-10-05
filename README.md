@@ -5,4 +5,4 @@
 
 ```bash
 npm install
-npmstart
+npm start
