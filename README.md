@@ -1,4 +1,8 @@
-How to run this
 
-npm install\n
-npm start
+#  How to Run This Project
+
+
+
+```bash
+npm install
+npmstart
